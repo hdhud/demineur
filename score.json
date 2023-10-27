@@ -1,0 +1,68 @@
+[
+    {
+        "Pseudo": "HDHUD",
+        "Facile": {
+            "TotalTime": "00:00:00",
+            "ToTalPartie": "0",
+            "Parties": [{
+                "Time": "00:00:10"
+            },
+            {
+                "Time": "00:00:10"
+            }]
+        },
+        "Moyen": {
+            "TotalTime": "00:00:00",
+            "ToTalPartie": "0",
+            "Parties": [{
+                "Time": "00:00:20"
+            },
+            {
+                "Time": "00:00:20"
+            }]
+        },
+        "Difficile": {
+            "TotalTime": "00:00:00",
+            "ToTalPartie": "0",
+            "Parties": [{
+                "Time": "00:00:30"
+            },
+            {
+                "Time": "00:00:30"
+            }]
+        }
+    },
+    {
+        "Pseudo": "HDHUD1",
+        "Facile": {
+            "TotalTime": "00:00:00",
+            "ToTalPartie": "0",
+            "Parties": [{
+                "Time": "00:00:15"
+            },
+            {
+                "Time": "00:00:15"
+            }]
+        },
+        "Moyen": {
+            "TotalTime": "00:00:00",
+            "ToTalPartie": "0",
+            "Parties": [{
+                "Time": "00:00:25"
+            },
+            {
+                "Time": "00:00:25"
+            }]
+        },
+        "Difficile": {
+            "TotalTime": "00:00:00",
+            "ToTalPartie": "0",
+            "Parties": [{
+                "Time": "00:00:35"
+            },
+            {
+                "Time": "00:00:35"
+            }]
+        }
+    }
+]

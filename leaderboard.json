@@ -1,0 +1,40 @@
+[
+    {
+        "Facile": {
+            "TotalTime": "00:00:00",
+            "ToTalPartie": "0",
+            "Parties": [{
+                "Time": "00:00:10",
+                "Pseudo": "HDHUD"
+            },
+            {
+                "Time": "00:00:10",
+                "Pseudo": "HDHUD"
+            }]
+        },
+        "Moyen": {
+            "TotalTime": "00:00:00",
+            "ToTalPartie": "0",
+            "Parties": [{
+                "Time": "00:00:20",
+                "Pseudo": "HDHUD"
+            },
+            {
+                "Time": "00:00:20",
+                "Pseudo": "HDHUD1"
+            }]
+        },
+        "Difficile": {
+            "TotalTime": "00:00:00",
+            "ToTalPartie": "0",
+            "Parties": [{
+                "Time": "00:00:30",
+                "Pseudo": "HDHUD"
+            },
+            {
+                "Time": "00:00:30",
+                "Pseudo": "HDHUD1"
+            }]
+        }
+    }
+]

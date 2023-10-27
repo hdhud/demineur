@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+
+		<title>Démineur</title>
+		<meta charset="utf8" />
+		<script defer src="script.js" type="module"></script>
+		<link rel="stylesheet" href="style.css" />
+
+	</head>
+
+	<body>
+		<h1>Démineur</h1>
+		<a href="score.html">Meilleur score</a>
+		<div id ="jeu">
+			<div id="menu">
+				<select id="difficulte" name="fruits">
+					<option value="0">Facile</option>
+					<option value="1">Moyen</option>
+					<option value="2">Difficile</option>
+				</select>
+				
+				<input type="text" id="pseudo" name="pseudo" placeholder="Pseudo" />
+				<div id="temps"><p id="min">00</p>:<p id="sec">00</p></div>
+			</div>
+				
+			<canvas id="canvas" width="800" height="800"></canvas>
+			<img src="images/numeros1.jpg" id="chiffre1" style="display: none;"/>
+			<img src="images/bombe1.jpg" id="bombe1" style="display: none;"/>
+			<img src="images/numeros2.jpg" id="chiffre2" style="display: none;"/>
+			<img src="images/bombe2.jpg" id="bombe2" style="display: none;"/>
+			<img src="images/Flag1.png" id="flag1"style="display: none;" />
+			<img src="images/Flag2.png" id="flag2" style="display: none;"/>
+		</div>
+	</body>
+</html>
